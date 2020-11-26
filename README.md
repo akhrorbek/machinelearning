@@ -2,8 +2,10 @@
 
 Everything I am learning on ML
 
-I started to learn Deep Learning a few weeks ago and I will use this repository to keep my files
+I started to learn Deep Learning and I will use this repository to keep my files
 
-I am going to use Github from today so anything I am doing should get updated daily.
+I am going to use Github from so anything I am doing should get updated daily.
+
+And I don't lose my files either. 
 
 I was also previously documenting my journey on Medium blogs (akhrrbk.medium.com)
